@@ -1,0 +1,19 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "contains model for ecommerce site",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneszwar/product_model.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneszwar/product_model/issues"
+  },
+  "homepage": "https://github.com/vigneszwar/product_model#readme"
+}
